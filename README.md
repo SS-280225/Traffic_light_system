@@ -30,6 +30,16 @@ The Arduino progra controls LED timing using digital  output pins and delay func
 
 ---
 
+## Pin Connections
+
+| LED Color | Arduino Pin |
+|---|---|
+| Red LED | Pin 13 |
+| Yellow LED | Pin 9 |
+| Green LED | Pin 5 |
+
+---
+
 ## Project Images
 
 ### Top View
