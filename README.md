@@ -30,6 +30,11 @@ The Arduino progra controls LED timing using digital  output pins and delay func
 
 ---
 
+## Circuit Diagram
+![Circuit Diagram](Circuit_diagram.png)
+
+---
+
 ## Pin Connections
 
 | LED Color | Arduino Pin |
