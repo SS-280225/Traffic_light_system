@@ -33,13 +33,13 @@ The Arduino progra controls LED timing using digital  output pins and delay func
 ## Project Images
 
 ### Top View
-![Top View](top_angle shot.jpeg)
+![Top View](top_angle_shot.jpeg)
 
 ### Side View
-![Side View](side_angle shot.jpeg)
+![Side View](side_angle_shot.jpeg)
 
 ### Close Up
-![Close Up](close_up shot.jpeg)
+![Close Up](close_up_shot.jpeg)
   
 ---
 ## Future Improvements
