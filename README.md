@@ -25,13 +25,13 @@ This project simulates a real world traffic light control system using Arduino U
   ## Project Images
 
   ### Top View
-  top_angle shot.jpeg
+  ![Top view]top_angle shot.jpeg
 
   ### Side View
-  side_angle shot.jpeg
+  ![Side view]side_angle shot.jpeg
 
   ### Close Up
-  close_up shot.jpeg
+  ![Close up]close_up shot.jpeg
 
   ## Future Improvements
   - Add pedestrian Crossing button
