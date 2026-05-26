@@ -13,27 +13,34 @@ This project simulates a real world traffic light control system using Arduino U
 - Breadboard
 - Jumper Wires
 - 220Ω resistors
+  
 ---
+
 ## Working Principle
 The traffic lights operate in a timed sequence:
 1. Yellow LED blinks for 5 times in 10 seconds
 2. Green LED turns ON for 10 seconds
 3. Red LED turns ON for 10 seconds
 4. Sequence repeats continuously
---- 
+   
+---
+
 ## Arduino Code
 The Arduino progra controls LED timing using digital  output pins and delay functions.
+
 ---
+
 ## Project Images
 
 ### Top View
-  ![Top view](top_angle shot.jpeg)
+![Top View](top_angle shot.jpeg)
 
 ### Side View
-  ![Side view](side_angle shot.jpeg)
+![Side View](side_angle shot.jpeg)
 
 ### Close Up
-  ![Close up](close_up shot.jpeg)
+![Close Up](close_up shot.jpeg)
+  
 ---
 ## Future Improvements
   - Add pedestrian Crossing button
